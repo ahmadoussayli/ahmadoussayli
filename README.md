@@ -9,6 +9,11 @@ I am tech enthusiast with over 5 years in programming and a passion for game dev
 * Solidity | JavaScript
 * Python | SQL
 
+  ## Projects
+    ###Game Projects
+      The Runner:An endless running game that integrates blockchain technology for secure token distribution. Features a robust backend system to support continuous        gameplay and token transactions,[Link on PlayStore](https://play.google.com/store/apps/details?id=com.MarkazStudios.CguRunner).
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmad-oussayli-ab8065230//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCzEejP1vdBz6ldQo20M7dVg)  
 
