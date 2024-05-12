@@ -21,17 +21,7 @@ Office Prototype: mini project of Interactive office prototype, [Gameplay Video]
 ### Source Code
   Smart contract for token distribution [source Code](https://bscscan.com/address/0x5f3321a9fc1fc64c395d163f4f1b17cf65bb638f).
 
-
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmad-oussayli-ab8065230/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40">
-  </a>
-  <a href="https://www.youtube.com/channel/UCzEejP1vdBz6ldQo20M7dVg">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="40">
-  </a>
-  <a href="mailto:oussayli86@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="Email" height="40">
-  </a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/ahmad-oussayli-ab8065230/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCzEejP1vdBz6ldQo20M7dVg)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='Email' height='40'>](mailto:oussayli86@gmail.com)
 
