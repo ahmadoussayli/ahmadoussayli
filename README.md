@@ -9,8 +9,8 @@ I am tech enthusiast with over 5 years in programming and a passion for game dev
 * Solidity | JavaScript
 * Python | SQL
 
-  ## Projects
-    ###Game Projects
+## Projects
+    ### Game Projects
       The Runner:An endless running game that integrates blockchain technology for secure token distribution. Features a robust backend system to support continuous        gameplay and token transactions,[Link on PlayStore](https://play.google.com/store/apps/details?id=com.MarkazStudios.CguRunner).
 
 
