@@ -5,10 +5,10 @@
 I am tech enthusiast with over 5 years in programming and a passion for game development using Unreal Engine. Experienced in blockchain-connected games, currently engaged in web3, smart contracts, and metaverse exploration. Eager to create immersive gaming experiences leveraging blockchain technology.
 
 ## Skills
-* Unreal Engine | C++ | Blueprint
-* Solidity | JavaScript
-* Python | SQL
-
+* Unreal Engine | C++ | Blueprint  | Aws
+* Solidity | JavaScript  | React | Type Script
+* Fire Base | Azure | SQL | Postgress Sql | Node/Express
+* Python | java
 ## Projects
 ### Game Projects
 
