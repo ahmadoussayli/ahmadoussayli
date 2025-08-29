@@ -2,13 +2,12 @@
 ![Design and Development](https://github.com/ahmadoussayli/ahmadoussayli/blob/main/Banner.png)
 
 # Ahmad Oussayli
-I am tech enthusiast with over 5 years in programming and a passion for game development using Unreal Engine. Experienced in blockchain-connected games, currently engaged in web3, smart contracts, and metaverse exploration. Eager to create immersive gaming experiences leveraging blockchain technology.
+With over 5 years of programming experience, I am a dedicated technologist committed to delivering innovative, high‑impact solutions. I bring seasoned Salesforce expertise, specializing in custom flows, Apex, Lightning Web Components (LWC), batch processes. Alongside this, I have solid knowledge and hands‑on experience in Unreal Engine game development, having built blockchain‑integrated games and actively worked on Web3, smart contracts, and metaverse initiatives.
 
 ## Skills
+* Sales Force | Lwc | Apex | Soql
 * Unreal Engine | C++ | Blueprint  | Aws
-* Solidity | JavaScript  | React | Type Script
-* Fire Base | Azure | SQL | Postgress Sql | Node/Express
-* Python | java
+* Solidity | JavaScript  | React | Fire Base
 ## Projects
 ### Game Projects
 
@@ -18,8 +17,12 @@ Alteera:A metaverse game titled "Realem," offering a vast, open universe enriche
 
 Office Prototype: mini project of Interactive office prototype, [Gameplay Video](https://www.youtube.com/watch?v=QcnNApIW5Ig).
 
+### My Portfolio
+[ahmadoussayli.info](https://www.ahmadoussayli.info/)
 ### Source Code
   Smart contract for token distribution [source Code](https://bscscan.com/address/0x5f3321a9fc1fc64c395d163f4f1b17cf65bb638f).
+### Contact Me
+  [oussayli86@gmail.com](mailto:oussayli86@gmail.com).
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/ahmad-oussayli-ab8065230/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCzEejP1vdBz6ldQo20M7dVg)
